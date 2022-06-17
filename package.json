@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/navi25/LearnStep-BuildYoutubeApp#readme",
   "devDependencies": {
-    "electron": "^9.4.0",
+    "electron": "^15.5.5",
     "electron-packager": "^14.0.6"
   }
 }
